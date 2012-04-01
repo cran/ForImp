@@ -26,20 +26,8 @@ The function provides a summary for the missing values in a matrix (units for va
 \item{missing_values_per_variable}{Number of missing values for each variable}
 %% ...
 }
-\references{
-%% ~put references to the literature/web site here ~
-}
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
-}
-\note{
-%%  ~~further notes~~
-}
-
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
-\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \examples{
 n<-100

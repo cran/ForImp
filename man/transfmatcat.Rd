@@ -40,12 +40,6 @@ Computational Statistics & Data Analysis, vol. 55, issue 7, pages 2410-2420, \ur
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
-\note{
-%%  ~~further notes~~
-}
-
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
 \seealso{
 \code{\link{rancatmat}}
 }

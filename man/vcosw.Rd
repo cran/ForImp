@@ -19,9 +19,6 @@ a vector
 a vector, of the same length of \code{v}
 }
 }
-\details{
-%%  ~~ If necessary, more details than the description above ~~
-}
 \value{
 The cosine of the angle between the two vectors
 %%  ~Describe the value returned
@@ -30,18 +27,9 @@ The cosine of the angle between the two vectors
 %%  \item{comp2 }{Description of 'comp2'}
 %% ...
 }
-\references{
-%% ~put references to the literature/web site here ~
-}
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
-\note{
-%%  ~~further notes~~
-}
-
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
 \seealso{
 Ferrari P.A., Annoni P., Barbiero A., Manzi G. (2011) An imputation method for categorical variables with application to nonlinear principal component analysis,
 Computational Statistics & Data Analysis, vol. 55, issue 7, pages 2410-2420, \url{http://www.sciencedirect.com/science/article/pii/S0167947311000521}

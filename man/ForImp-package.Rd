@@ -12,8 +12,8 @@ and other functions for generating ordinal data or imputing missing values.
 \tabular{ll}{
 Package: \tab ForImp\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2011-05-24\cr
+Version: \tab 1.0-1\cr
+Date: \tab 2012-04-01\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 }
@@ -23,10 +23,7 @@ Alessandro Barbiero<alessandro.barbiero@unimi.it>,
 \cr Giancarlo Manzi<giancarlo.manzi@unimi.it>,
 \cr Pier Alda Ferrari<pieralda.ferrari@unimi.it>
 
-
-Maintainer: Alessandro Barbiero<alessandro.barbiero@unimi.it>,
-\cr Giancarlo Manzi<giancarlo.manzi@unimi.it>,
-\cr Pier Alda Ferrari<pieralda.ferrari@unimi.it>
+Maintainer: Alessandro Barbiero<alessandro.barbiero@unimi.it>
 }
 \references{
 Ferrari P.A., Annoni P., Barbiero A., Manzi G. (2011) An imputation method for categorical variables with application to nonlinear principal component analysis,
@@ -40,7 +37,3 @@ Little, R.J.A., Rubin, D.B., 2002. Statistical Analysis with Missing Data, 2nd e
 
 }
 \keyword{ package }
-\seealso{
-}
-\examples{
-}

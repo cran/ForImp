@@ -40,11 +40,6 @@ Ferrari P.A., Barbiero A., Manzi G.: Handling missing data in presence of ordina
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
-\note{
-%%  ~~further notes~~
-}
-
-%% ~Make other sections like Warning with \section{Warning }{....} ~
 
 \seealso{
 \code{\link{modeimp}}, \code{\link{medianimp}}, \code{\link{meanimp}}

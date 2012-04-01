@@ -18,26 +18,11 @@ A numerical matrix
 \details{
 The function implements the unconditional mean imputation on a numerical matrix with missing values, substituting to each missing value the arithmetic mean of the corresponding variable
 }
-\value{
-The imputed matrix
-%%  ~Describe the value returned
-%%  If it is a LIST, use
-%%  \item{comp1 }{Description of 'comp1'}
-%%  \item{comp2 }{Description of 'comp2'}
-%% ...
-}
-\references{
-%% ~put references to the literature/web site here ~
+\value{the imputed matrix
 }
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
-\note{
-%%  ~~further notes~~
-}
-
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
 \seealso{
 \code{\link{modeimp}}, \code{\link{medianimp}}
 }

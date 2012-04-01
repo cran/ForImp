@@ -27,17 +27,8 @@ The imputed matrix
 %%  \item{comp2 }{Description of 'comp2'}
 %% ...
 }
-\references{
-%% ~put references to the literature/web site here ~
-}
 \author{Alessandro barbiero, Giancarlo Manzi, Pier Alda Ferrari 
 }
-\note{
-%%  ~~further notes~~
-}
-
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
 \seealso{
 \code{\link{medianimp}}, \code{\link{modeimp}}
 }

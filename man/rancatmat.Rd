@@ -33,18 +33,9 @@ a matrix of ordinal values
 %%  \item{comp2 }{Description of 'comp2'}
 %% ...
 }
-\references{
-%% ~put references to the literature/web site here ~
-}
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pieralda Ferrari
 }
-\note{
-%%  ~~further notes~~
-}
-
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
 \seealso{
 \code{\link{transfmatcat}}
 }

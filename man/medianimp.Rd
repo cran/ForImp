@@ -22,17 +22,10 @@ The function substitutes to each missing value the median of the corresponding v
 \value{
 The imputed matrix
 }
-\references{
-%% ~put references to the literature/web site here ~
-}
+
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
-\note{
-%%  ~~further notes~~
-}
-
-%% ~Make other sections like Warning with \section{Warning }{....} ~
 
 \seealso{
 \code{\link{modeimp}}, \code{\link{meanimp}}

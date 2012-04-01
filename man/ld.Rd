@@ -21,18 +21,10 @@ This function implements the listwise deletion on a given dataset, removing all 
 \value{
 The matrix/dataframe in input with the rows/units with missing values removed
 }
-\references{
-%% ~put references to the literature/web site here ~
-}
+
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
-\note{
-%%  ~~further notes~~
-}
-
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
 \seealso{
 \code{\link{meanimp}}, \code{\link{modeimp}}, \code{\link{medianimp}}
 }

@@ -19,20 +19,12 @@ a matrix (n rows, m columns)
 a vector: element i contains the desired number of rows with i missing values (1<=i<=m)
 }
 }
-\details{
-}
 \value{
 a matrix with the specified pattern of missing values
-}
-\references{
 }
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
-\note{
-}
-
-
 \seealso{
 \code{\link{missingmat}},\code{\link{missingness}}
 }
