@@ -9,7 +9,6 @@ Median imputation}
 \usage{
 medianimp(mat)
 }
-%- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{mat}{
 A matrix of ordinal values , ordered according to the Likert scale (1, 2, 3,...)
@@ -22,11 +21,9 @@ The function substitutes to each missing value the median of the corresponding v
 \value{
 The imputed matrix
 }
-
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
-
 \seealso{
 \code{\link{modeimp}}, \code{\link{meanimp}}
 }
@@ -45,7 +42,5 @@ medianimp(matm)
 # original matrix with no missing values
 mat
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
 \keyword{datagen}
 \keyword{multivariate}% __ONLY ONE__ keyword per line

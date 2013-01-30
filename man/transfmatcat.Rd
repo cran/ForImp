@@ -25,11 +25,6 @@ ordinal values (1,2,3,... i.e.: Likert scale) according to the \code{cat}-1 norm
 }
 \value{
 the matrix of ordinal values
-%%  ~Describe the value returned
-%%  If it is a LIST, use
-%%  \item{comp1 }{Description of 'comp1'}
-%%  \item{comp2 }{Description of 'comp2'}
-%% ...
 }
 \references{
 Ferrari P.A., Barbiero A., Manzi G.: Handling missing data in presence of ordinal variables: a new imputation procedure. In "New Perspectives in Statistical Modeling and Data Analysis", S. Ingrassia, R. Rocci, M. Vichi, Eds.,  Springer, 2011\cr
@@ -50,7 +45,5 @@ mat<-matrix(rnorm(40,3),10,4)
 # transform the matrix of normal data into a matrix of ordinal data
 transfmatcat(mat, cat=c(2,3,4,3))
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
 \keyword{datagen}
 \keyword{multivariate}% __ONLY ONE__ keyword per line

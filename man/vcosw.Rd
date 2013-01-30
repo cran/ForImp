@@ -21,11 +21,6 @@ a vector, of the same length of \code{v}
 }
 \value{
 The cosine of the angle between the two vectors
-%%  ~Describe the value returned
-%%  If it is a LIST, use
-%%  \item{comp1 }{Description of 'comp1'}
-%%  \item{comp2 }{Description of 'comp2'}
-%% ...
 }
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
@@ -44,7 +39,5 @@ f<-c(3,-3,1)
 vcosw(e,f)
 # e and f are orthogonal vectors!
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
 \keyword{datagen}
 \keyword{multivariate}% __ONLY ONE__ keyword per line

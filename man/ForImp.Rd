@@ -40,12 +40,10 @@ Ferrari P.A., Barbiero A., Manzi G.: Handling missing data in presence of ordina
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
-
 \seealso{
 \code{\link{modeimp}}, \code{\link{medianimp}}, \code{\link{meanimp}}
 }
 \examples{
-library(mvtnorm)
 set.seed(1)
 # correlation matrix
 sigma<-matrix(c(1,0.5,0.5,0.5,0.5,1,0.5,0.5,0.5,0.5,1,0.5,0.5,0.5,0.5,1),4,4)
@@ -63,7 +61,5 @@ mati<-ForImp(mat)
 # number of correct imputations
 nummissing-sum(mati!=mato)
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
 \keyword{datagen}
 \keyword{multivariate}% __ONLY ONE__ keyword per line

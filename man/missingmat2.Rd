@@ -10,7 +10,6 @@ Random generation of missing values in matrices
 \usage{
 missingmat2(mat, missing)
 }
-%- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{mat}{
 a matrix (n rows, m columns)
@@ -37,7 +36,5 @@ matm
 # check that the function works
 missingness(matm)
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
 \keyword{multivariate}
 \keyword{datagen}% __ONLY ONE__ keyword per line

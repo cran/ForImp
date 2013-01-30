@@ -18,11 +18,14 @@ A numerical matrix
 \details{
 The function implements the unconditional mean imputation on a numerical matrix with missing values, substituting to each missing value the arithmetic mean of the corresponding variable
 }
-\value{the imputed matrix
+\value{
+The imputed matrix
 }
+
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
+
 \seealso{
 \code{\link{modeimp}}, \code{\link{medianimp}}
 }
@@ -41,7 +44,5 @@ meanimp(mat)
 # original matrix with no missing values
 mat
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
 \keyword{datagen}
 \keyword{multivariate}% __ONLY ONE__ keyword per line

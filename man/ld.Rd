@@ -21,7 +21,6 @@ This function implements the listwise deletion on a given dataset, removing all 
 \value{
 The matrix/dataframe in input with the rows/units with missing values removed
 }
-
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
@@ -37,8 +36,7 @@ mat[10,2]<-NA
 mat
 ld(mat)
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
+
 \keyword{datagen}
 \keyword{multivariate}% __ONLY ONE__ keyword per line
 

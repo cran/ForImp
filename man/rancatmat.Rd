@@ -10,7 +10,6 @@ The function generates a random matrix of integer (ordinal) variables, with inde
 \usage{
 rancatmat(n, m, cat = 3)
 }
-%- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{n}{
 number of rows/units
@@ -27,11 +26,6 @@ The function generates a random matrix of integer (ordinal) variables (coded wit
 }
 \value{
 a matrix of ordinal values
-%%  ~Describe the value returned
-%%  If it is a LIST, use
-%%  \item{comp1 }{Description of 'comp1'}
-%%  \item{comp2 }{Description of 'comp2'}
-%% ...
 }
 \author{
 Alessandro Barbiero, Giancarlo Manzi, Pieralda Ferrari
@@ -47,7 +41,5 @@ mat<-rancatmat(n,m,c(3,4,5))
 apply(mat,2,tabulate)
 #... should be "quite" uniform
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
 \keyword{datagen}
 \keyword{multivariate}% __ONLY ONE__ keyword per line

@@ -48,7 +48,6 @@ Computational Statistics & Data Analysis, vol. 55, issue 7, pages 2410-2420, \ur
 Alessandro Barbiero, Giancarlo Manzi, Pier Alda Ferrari
 }
 \examples{
-library(mvtnorm)
 set.seed(1)
 # correlation matrix
 sigma<-matrix(c(1,0.5,0.5,0.5,0.5,1,0.5,0.5,0.5,0.5,1,0.5,0.5,0.5,0.5,1),4,4)
@@ -74,9 +73,6 @@ matl
 # not at random missing values on variable 4
 matn<-missingmat(mato, nummissing, pattern= "n", nk=4, w=4)
 matn
-
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
 \keyword{datagen}
 \keyword{multivariate}% __ONLY ONE__ keyword per line

@@ -12,8 +12,8 @@ and other functions for generating ordinal data or imputing missing values.
 \tabular{ll}{
 Package: \tab ForImp\cr
 Type: \tab Package\cr
-Version: \tab 1.0-1\cr
-Date: \tab 2012-04-01\cr
+Version: \tab 1.0\cr
+Date: \tab 2013-01-30\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 }

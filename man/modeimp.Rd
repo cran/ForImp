@@ -21,14 +21,10 @@ The function substitutes to each missing value the mode of the corresponding var
 }
 \value{
 The imputed matrix
-%%  ~Describe the value returned
-%%  If it is a LIST, use
-%%  \item{comp1 }{Description of 'comp1'}
-%%  \item{comp2 }{Description of 'comp2'}
-%% ...
 }
 \author{Alessandro barbiero, Giancarlo Manzi, Pier Alda Ferrari 
 }
+
 \seealso{
 \code{\link{medianimp}}, \code{\link{modeimp}}
 }
