@@ -1,6 +1,5 @@
 \name{ForImp}
 \alias{ForImp}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Forward Imputation procedure
 }
@@ -10,7 +9,6 @@ Forward Imputation of missing data
 \usage{
 ForImp(mat, p=2)
 }
-%- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{mat}{
 a matrix/dataframe

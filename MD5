@@ -1,5 +1,5 @@
-d43a9651c40e0a977642757b4664d81c *DESCRIPTION
-a2b52f0651e8d9e88c134274fceffb9e *NAMESPACE
+c8b3673fbbe2983e0d736e532ac0f869 *DESCRIPTION
+266dd0f3bf419ebdb042bd685d0deba5 *NAMESPACE
 951ff32b90f76021efe2247cb9164ce6 *R/ForImp.R
 057fd3782a67b604a5be2545de06c51d *R/ld.R
 bfa0bb6c7ed3d70b2e3f0f0808cfafab *R/meanimp.R
@@ -11,14 +11,13 @@ bfa0bb6c7ed3d70b2e3f0f0808cfafab *R/meanimp.R
 300e46f454861b59976cdafe7bf3931a *R/rancatmat.R
 c8a0595ae4997de8a3d556be1028943b *R/transfmatcat.R
 122f2bc33abbf83401fc07b315bf4ac5 *R/vcosw.R
-82af91b74445c9247101ff41e8f5b50e *doc/ForImp-manual.pdf
 16e6d096c7c12c84c8110019151aa2a7 *man/ForImp-package.Rd
-5e0c8ba044f6f7743e18b69bf5cbcc5b *man/ForImp.Rd
+19f215b2afd75eee8c38883d012f3153 *man/ForImp.Rd
 1f2cc3d9825cf9f75bb5cef2b7867290 *man/ld.Rd
 553d02271a4d42ba84661444ad75b9ee *man/meanimp.Rd
 66a6b2be701aff3fe4ace07d44a7663d *man/medianimp.Rd
 6aab4ff9abe39610cf809873c19238d1 *man/missingmat.Rd
-d221f6dd1d4699a0850ae44b72d5eb62 *man/missingmat2.Rd
+5098b6a821eca15c3bbdf74b2341c8b5 *man/missingmat2.Rd
 d3bc443a0b2226e1fa9d2246bff55e9e *man/missingness.Rd
 be8e21d384f681e3e715b9a2443f2192 *man/modeimp.Rd
 fb6762e46fd30b99104727514a01c7b3 *man/rancatmat.Rd
